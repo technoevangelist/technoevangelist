@@ -30,7 +30,7 @@
 
 ---
 
-##  <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b40180f3-7c60-4dc8-98a4-458d323a3587" /> About Me
+##  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b40180f3-7c60-4dc8-98a4-458d323a3587" /> About Me
 
 I help enterprises turn **strategy into execution** and **execution into measurable business impact**.
 
