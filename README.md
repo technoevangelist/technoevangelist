@@ -30,7 +30,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I help enterprises turn **strategy into execution** and **execution into measurable business impact**.
 
