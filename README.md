@@ -4,7 +4,7 @@
 
 ### Strategy is Intent. Execution is Impact.
 
-**Program Delivery & PMO Advisor • Strategy-to-Execution Leader • Author • Founder @ RHUJ**
+**Enterprise PMO & Program Delivery Leader • Strategy-to-Execution Leader • Author • Founder @ RHUJ**
 
 <p>
   <a href="https://technoevangelist.in" target="_blank">
