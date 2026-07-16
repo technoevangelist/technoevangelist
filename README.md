@@ -50,7 +50,7 @@ I strongly believe that technology should solve **business problems**, not merel
 | Specialization | Enterprise Transformation |
 | Current Focus | AI Products & Open Source Innovation |
 
-# 🚀 What I Do
+# 🎯 What I Do
 
 I help organizations build predictable, scalable, and AI-enabled business operations.
 
@@ -90,25 +90,25 @@ My expertise spans:
 
 The products below are designed to solve real-world business challenges using Artificial Intelligence, Automation, and Modern Product Thinking.
 
-## 🚀 MatchMyNext
+## ⚡ MatchMyNext
 
 AI-powered Career Intelligence Platform helping professionals find better career opportunities through intelligent resume analysis and job matching.
 
 ---
 
-## 🚀 StratosAlpha
+## 📊 StratosAlpha
 
 Enterprise Portfolio Intelligence Platform helping executives monitor portfolio health, governance, strategic alignment, risks, and business outcomes.
 
 ---
 
-## 🚀 RivalRadar
+## 🔍 RivalRadar
 
 AI-powered Competitive Intelligence Platform providing organizations with strategic market and competitor insights.
 
 ---
 
-## 🚀 TechnoEvangelist
+## 🎯 TechnoEvangelist
 
 A knowledge platform dedicated to Digital Transformation, AI, Leadership, Product Management, PMO, and Project Excellence.
 
@@ -248,9 +248,9 @@ Over the past two decades, I have worked across enterprise technology, digital t
 
 - SQL
 
-# 🚀 Featured Products
+# 🎯 Featured Products
 
-## 🎯 MatchMyNext
+## ⚡ MatchMyNext
 
 Helping job seekers leverage AI to improve resume quality, ATS compatibility, interview readiness, and career growth.
 
@@ -295,7 +295,7 @@ https://technoevangelist.in
 
 # 🌍 My Mission
 
-Technology should solve business problems—not create complexity.
+Technology should solve business problems not create complexity.
 
 My mission is to build practical AI-powered products, enterprise frameworks, and open-source solutions that help organizations make better decisions, improve governance, and deliver measurable business outcomes.
 
@@ -312,7 +312,7 @@ I believe in creating products that are:
 
 I am actively working on:
 
-🚀 AI Products
+🤖 AI Products
 
 📚 Digital Learning Platforms
 
