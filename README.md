@@ -358,18 +358,6 @@ I regularly write about:
 
 🌐 https://github.com/technoevangelist
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=technoevangelist&show_icons=true&theme=github_dark">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=technoevangelist&theme=github-dark">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoevangelist&layout=compact&theme=github_dark">
-
-</p>
-
 # 🤝 Let's Collaborate
 
 I enjoy collaborating on:
