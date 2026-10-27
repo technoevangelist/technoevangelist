@@ -102,7 +102,7 @@ Enterprise Portfolio Intelligence Platform helping executives monitor portfolio 
 
 ---
 
-## 🔍 RivalRadar
+## 🔍 Rivqore
 
 AI-powered Competitive Intelligence Platform providing organizations with strategic market and competitor insights.
 
@@ -273,7 +273,7 @@ An Executive Portfolio Intelligence Platform that enables enterprise leaders to 
 
 ---
 
-## 🔍 RivalRadar
+## 🔍 Rivqore
 
 Competitive Intelligence Platform that continuously evaluates competitors, identifies strategic gaps, and delivers AI-powered executive insights.
 
